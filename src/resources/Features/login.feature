@@ -10,5 +10,5 @@ Feature: Test Login Funcationality
     Examples:
     | username       |  password |
     | yash@gmail.com | yash123!  |
-    |                | yash123!  |
+    | yash1@gmail.com| yash123!  |
 

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Candidate_2268110" />
+        <module name="calcAppium" />
       </profile>
     </annotationProcessing>
   </component>
